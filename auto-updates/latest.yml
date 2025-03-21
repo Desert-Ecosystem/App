@@ -1,8 +1,8 @@
 version: 1.0.0
 files:
-  - url: https://github.com/Desert-Ecosystem/App/releases/download/v/com.deserteco.desert--setup.exe
-    sha512: FvQT79VhkNCMy9+6oV8FujlZRMTuKwfDSGRu8BLAH1twbGuYVs4KhrmVWA8al7cEZQQ3JmFfTrHnyvS3eAJW1g==
-    size: 82191604
+  - url: https://github.com/Desert-Ecosystem/App/releases/download/v1.0.0/com.deserteco.desert-1.0.0-setup.exe
+    sha512: gDbT6oqWxPs8WIY0mgRjcoJfpKna+qjRmnRT0uCu+LoXjso5C+No59f02uFUD0UIMBaCM+w5dyq0l0POXQKaoQ==
+    size: 82191606
 path: com.deserteco.desert-1.0.0-setup.exe
-sha512: FvQT79VhkNCMy9+6oV8FujlZRMTuKwfDSGRu8BLAH1twbGuYVs4KhrmVWA8al7cEZQQ3JmFfTrHnyvS3eAJW1g==
-releaseDate: '2025-03-20T23:25:58.900Z'
+sha512: gDbT6oqWxPs8WIY0mgRjcoJfpKna+qjRmnRT0uCu+LoXjso5C+No59f02uFUD0UIMBaCM+w5dyq0l0POXQKaoQ==
+releaseDate: '2025-03-21T15:16:06.197Z'
