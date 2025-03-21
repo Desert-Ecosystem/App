@@ -1,11 +1,11 @@
-version: 0.0.2
+version: 0.0.1
 files:
-  - url: https://github.com/Desert-Ecosystem/App/releases/download/v0.0.2/com.deserteco.desert-0.0.2-arm64-mac.zip
-    sha512: f/QxOorrLuY2PGx4NI1G77IMtIwIIsFCQR28PE2c4gTVXdSMnLh40WH0587H0ZtHdzDalfSIuvOAAsY20MF5Mw==
-    size: 95084081
-  - url: com.deserteco.desert-0.0.2.dmg
-    sha512: AYX1zejHz1NiyBdpxBSOc+JcVmSLFgYxzuXq3kv7JxmHGvPBgU64movljxVKugLGDaf9mzC0i7GqcwGu+95CJQ==
-    size: 98519238
-path: com.deserteco.desert-0.0.2-arm64-mac.zip
-sha512: f/QxOorrLuY2PGx4NI1G77IMtIwIIsFCQR28PE2c4gTVXdSMnLh40WH0587H0ZtHdzDalfSIuvOAAsY20MF5Mw==
-releaseDate: '2025-03-21T17:13:07.624Z'
+  - url: https://github.com/Desert-Ecosystem/App/releases/download/v0.0.1/com.deserteco.desert-0.0.1-arm64-mac.zip
+    sha512: bmEZ3G+uH+tf8YM5ScepWCf5UsCeswUuDK3Gzw+J2nTcbCeViBCwpyk9j85XlixAex9VUHnj6Cio6s3FulWqHA==
+    size: 95084140
+  - url: com.deserteco.desert-0.0.1.dmg
+    sha512: 4IgsJF2lDerjzcZoabQnDZ11m68ht02uqHV+KZb+w7GjEfwsuBeFDTSEtw/+ZCL7f6DVQbLg89TtJeRooCid6w==
+    size: 98478507
+path: com.deserteco.desert-0.0.1-arm64-mac.zip
+sha512: bmEZ3G+uH+tf8YM5ScepWCf5UsCeswUuDK3Gzw+J2nTcbCeViBCwpyk9j85XlixAex9VUHnj6Cio6s3FulWqHA==
+releaseDate: '2025-03-21T17:29:49.239Z'
