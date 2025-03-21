@@ -1,12 +1,12 @@
-version: 0.0.1
+version: 0.0.2
 files:
-  - url: https://github.com/Desert-Ecosystem/App/releases/download/v0.0.1/com.deserteco.desert-0.0.1.AppImage
-    sha512: JVEcsXl7zDDPpfZ3KPpht95CPb9pywaSthkUrOg4w+8LsCG5zK2CMKigpLSEc8FfsHZSSL2JeeS/tG9SEqKfFQ==
-    size: 108150163
-    blockMapSize: 114087
-  - url: com.deserteco.desert_0.0.1_amd64.deb
-    sha512: +hBojWk/WiCO+KvCRlqkCScxVkIfN7N9u4lPckP1wCRPTl39QQ34cPiAWjIQhUXuvjaGih8C8j2YQmcWoQcOUA==
-    size: 75024394
-path: com.deserteco.desert-0.0.1.AppImage
-sha512: JVEcsXl7zDDPpfZ3KPpht95CPb9pywaSthkUrOg4w+8LsCG5zK2CMKigpLSEc8FfsHZSSL2JeeS/tG9SEqKfFQ==
-releaseDate: '2025-03-21T19:29:44.343Z'
+  - url: https://github.com/Desert-Ecosystem/App/releases/download/v0.0.2/com.deserteco.desert-0.0.2.AppImage
+    sha512: vFlIbusnOOeoZbI10NPjNSLug9xcPXv9w0tL1qMWDNRSYuSuv01WMKC55KdvR/V7mhMz59gus+cGXDa8m6s5ig==
+    size: 108150189
+    blockMapSize: 114113
+  - url: com.deserteco.desert_0.0.2_amd64.deb
+    sha512: y2j/K16a/vUygvR1VFRL3FcGx735pWqUaojogvwzldCA4prKMi3IKVQvmaIQsP9dJp7HIcCh9zPK/KqapT2Nrw==
+    size: 75002174
+path: com.deserteco.desert-0.0.2.AppImage
+sha512: vFlIbusnOOeoZbI10NPjNSLug9xcPXv9w0tL1qMWDNRSYuSuv01WMKC55KdvR/V7mhMz59gus+cGXDa8m6s5ig==
+releaseDate: '2025-03-21T19:49:19.426Z'
