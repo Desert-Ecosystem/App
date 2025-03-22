@@ -1,6 +1,6 @@
 version: 0.0.2
 files:
-  - url: https://github.com/Desert-Ecosystem/App/releases/download/v0.0.1/Desert-0.0.1-arm64-mac.zip
+  - url: https://github.com/Desert-Ecosystem/App/releases/download/v0.0.1/Desert-0.0.2-arm64-mac.zip
     sha512: RoZsR5SGGyqf8UuQ0ZMt/j9ASYKQnMAxCUgPFmhnXL4EY+1GrfiaPC64bfWGwXtour3OWQN2qr8G/bxleH9IVw==
     size: 95084284
   - url: com.deserteco.desert-0.0.2.dmg
